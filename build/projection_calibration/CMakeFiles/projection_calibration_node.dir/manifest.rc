@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/ws/build/projection_calibration/CMakeFiles/projection_calibration_node.dir/embed.manifest"

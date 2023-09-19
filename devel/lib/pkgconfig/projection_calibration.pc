@@ -1,0 +1,8 @@
+prefix=C:/ws/devel
+
+Name: projection_calibration
+Description: Description of projection_calibration
+Version: 0.0.0
+Cflags: -IC:/ws/src/projection_calibration/lodepng/ -IC:/ws/src/projection_calibration/nanosvg-master/
+Libs: -L${prefix}/lib 
+Requires: roscpp roslib std_msgs message_runtime

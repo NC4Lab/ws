@@ -1,0 +1,2 @@
+projection_calibration
+-DCMAKE_BUILD_TYPE=RelWithDebInfo -DCATKIN_DEVEL_PREFIX=C:\ws\devel -DCMAKE_INSTALL_PREFIX=C:\ws\install -G Ninja
